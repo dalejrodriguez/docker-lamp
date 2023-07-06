@@ -9,7 +9,7 @@ ARG PYPI_USER=pypi_user
 ARG PYPI_PASS=pypi_pass
 ARG PYPI_URL=pypi_url
 ARG SSH_KEY=821837218731827381237SDSADSADASDSADASDASD
-ARG AWS_KEY=12383282103uuaysiudyasdui
+ARG AWS_KEY=12383282103uuaysiudyasdui1
 
 RUN apt-get update
 RUN apt-get upgrade -y
